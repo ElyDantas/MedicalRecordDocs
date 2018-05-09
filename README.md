@@ -1,2 +1,2 @@
-# SwipeCleaner
-iOS App for photo gallery cleanning
+# Medical Record
+Android App for personal health organization.
